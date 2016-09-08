@@ -1,0 +1,55 @@
+body {
+	font-family: 'Open Sans';
+}
+.grupal {
+	background-image: url(../img/grupal.jpg);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 50em;
+}
+.logo {
+	width: 120%;
+	padding-top: 20%;
+	margin-right: 10%;
+}
+.sumate {
+	background-color: #fcb739;
+	border-radius: 0.1em;
+	width: 30%;
+	position: relative;
+	margin: 2.7em;
+	padding: 0.3em;
+	text-align: center;
+}
+.deco {
+	text-decoration: none;
+	color: black;
+	font-weight: normal;
+}
+h1 {
+	font-size: 1.5rem;
+}
+ul {
+	list-style: none;
+}
+.link {
+	text-decoration: none;
+	color: black;
+	float: left;
+	padding: 0.5em;
+	margin: 0.5em;
+}
+.bold {
+	font-weight: bolder;
+	font-size: 1.2em;
+	text-align: left;
+}
+.smallgrupal {
+	width: 100%;
+	margin-top: 2em;
+}
+p {
+	color: white;
+	background-color: rgb(50,50,48);
+	padding: 2em;
+}
